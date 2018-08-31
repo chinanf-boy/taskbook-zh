@@ -15,10 +15,15 @@
 
 <!-- doc-templite START generated -->
 <!-- time = '2018 7.31' -->
-
+<!-- repo = 'klauscfhq/taskbook' -->
+<!-- commit = '9cc92e81040b4995ed09ded463217c6145b9280e' -->
 翻译的原文 | 与日期 | 最新更新 | 更多
 ---|---|---|---
-[commit] | ⏰ 2018 7.31 | ![last] | [中文翻译][more]
+[commit] | ⏰ 2018 7.31 | ![last] | [中文翻译][translate-list]
+
+[last]: https://img.shields.io/github/last-commit/klauscfhq/taskbook.svg
+[commit]: https://github.com/klauscfhq/taskbook/tree/9cc92e81040b4995ed09ded463217c6145b9280e
+
 <!-- doc-templite END generated -->
 
 [last]: https://img.shields.io/github/last-commit/klauscfhq/taskbook.svg
